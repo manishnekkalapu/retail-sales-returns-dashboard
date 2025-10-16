@@ -1,12 +1,31 @@
 # 🧠 Retail Sales & Returns Dashboard
 
-This is an end-to-end Business Intelligence project demonstrating data processing,
-SQL analysis, and visualization using Python and Streamlit.
+### 🚀 End-to-End Data & BI Project by [Manish Nekkalapu](https://github.com/ManishNekkalapu)
 
-**Key features:**
-- Data cleaning and ETL with Python  
-- SQL analysis for revenue and return trends  
-- Dashboard built using Streamlit  
-- Suitable for portfolio demonstration and BI internship applications  
+A complete **data analytics & dashboarding project** simulating real-world e-commerce data processing, built for the **Amazon Business Intelligence Engineer Internship (London)** portfolio.
 
-**Author:** Manish Nekkalapu
+---
+
+## 📊 Project Overview
+
+This project demonstrates:
+- **ETL pipeline** using Python & SQLite.
+- **SQL queries** for KPIs like GMV, AOV, and Return Rates.
+- **Interactive Streamlit dashboard** to visualize insights.
+- Clean, modular project structure for data engineering + BI workflow.
+
+---
+
+## 🧩 Tech Stack
+
+| Layer | Tools Used |
+|-------|-------------|
+| Data Processing | Python (pandas, sqlite3) |
+| Storage | SQLite |
+| BI & Dashboard | Streamlit |
+| Version Control | GitHub |
+
+---
+
+## 🗂️ Repository Structure
+
